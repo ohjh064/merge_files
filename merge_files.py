@@ -8,3 +8,5 @@ with open('C:\\Users\\ohjh0\\OneDrive\\바탕 화면\\19-21_수능_문장_영어
         with open(filename) as file:
             for line in file:
                 outfile.write(line)
+
+                #as
